@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "endsmp-forend.aternos.me
-",
+    "ip": "endsmp-forend.aternos.me",
+
     "port": 26623,
     "version": "1.20.1",
     "try-creative": false
